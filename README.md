@@ -1,4 +1,4 @@
-# Cipher Hub
+# Cryptifyhub
 
 ### University Project for Information Security and Forensics
 
